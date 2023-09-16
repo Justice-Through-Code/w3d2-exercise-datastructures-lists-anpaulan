@@ -69,8 +69,8 @@ def box_office_data():
     print(top_100[0])
     # 1.7 TODO: Print the top 10 movies in `top_100` as a list.
     # Use 'slicing' to accomplish this!
-    top_10 = top_100[:11]
-    print(top_10)
+    print(top_100[:10])
+    
 # box_office_data()
 
 
